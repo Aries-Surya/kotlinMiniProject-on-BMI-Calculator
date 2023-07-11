@@ -29,4 +29,4 @@ Description: This project is a simple BMI calculator written in Kotlin. It allow
 - Click the "Calculate BMI" button.
 - The app will display your BMI and classification.
 ## Link To Apk File
-[Click here to downlord Apk](https://drive.google.com/drive/folders/1JN_nx_UGchxwE4Q_9ZfTM59sHCYO-4HH?usp=sharing)
+[Click here to downlord Apk](https://drive.google.com/file/d/1-9rVjoiY5cYAauaOYkpvQhxJTvyjNOcj/view?usp=sharing)
