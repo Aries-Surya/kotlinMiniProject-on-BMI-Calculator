@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weight_in_kg">Weight in kg</string>
+    <string name="height_in_cm">Height in cm</string>
+    <string name="enter">enter</string>
+    <string name="text">text</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="enter_the_below_details">Enter the below details</string>
+    <string name="name1">name1</string>
+    <string name="value">value</string>
+    <string name="condition">condition</string>
+    <string name="Age">Age:</string>
+    <string name="your_bmi_value_is">your BMI value is :</string>
+</resources>
